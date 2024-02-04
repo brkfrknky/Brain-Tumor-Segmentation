@@ -4,7 +4,8 @@ This project is an open-source software endeavor encompassing a suite of tools a
 
 #Features
 
-Image Processing Algorithms: ![image](https://github.com/brkfrknky/Brain-Tumor-Segmentation/assets/76915533/ba15dba1-3a1f-4066-ae1c-729e6603adc1)
+Image Processing Algorithms:
+![image](https://github.com/brkfrknky/Brain-Tumor-Segmentation/assets/76915533/ba15dba1-3a1f-4066-ae1c-729e6603adc1)
 
 Deep Learning Models: In the project, the specifically developed U-Net architecture for biomedical images has been utilized.
 
