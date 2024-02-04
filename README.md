@@ -23,7 +23,7 @@ The project includes the BraTS MRI brain tumor image dataset, meticulously prepa
 
 ![image](https://github.com/brkfrknky/Brain-Tumor-Segmentation/assets/76915533/33b26b64-e7ae-4fd5-996c-a0a0aacd4937)
 
-
+# Metric Results 
 -	Accuracy: 0.9922			-Validation Accuracy: 0.9909
 -	Jaccard: 0.9783				-Validation Jaccard: 0.9764
 -	Loss: 0.0202					-Validation Loss: 0.0239
