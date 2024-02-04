@@ -5,8 +5,13 @@ This project is an open-source software endeavor encompassing a suite of tools a
 #Features
 
 Image Processing Algorithms:
+
 ![image](https://github.com/brkfrknky/Brain-Tumor-Segmentation/assets/76915533/ba15dba1-3a1f-4066-ae1c-729e6603adc1)
 
-Deep Learning Models: In the project, the specifically developed U-Net architecture for biomedical images has been utilized.
+Deep Learning Models: 
 
-Dataset: The project includes the BraTS MRI brain tumor image dataset, meticulously prepared by Sicas for use in competitions during the learning and testing phases. This dataset comprises 369 MRI scans and is designed for professional utilization in competitions.
+In the project, the specifically developed U-Net architecture for biomedical images has been utilized.
+
+Dataset: 
+
+The project includes the BraTS MRI brain tumor image dataset, meticulously prepared by Sicas for use in competitions during the learning and testing phases. This dataset comprises 369 MRI scans and is designed for professional utilization in competitions.
